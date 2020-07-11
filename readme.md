@@ -1,4 +1,4 @@
-![cover](.gh/ogg.png)
+![cover](gh/ogg.png)
 
 # WTF Webpack Starter Kit 
 
