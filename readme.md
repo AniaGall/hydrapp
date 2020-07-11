@@ -1,4 +1,4 @@
-![cover](.gh/ogg.png)
+![cover](gh/ogg.png)
 
 # HYDRAPP
 
